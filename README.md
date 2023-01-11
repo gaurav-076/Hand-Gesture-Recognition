@@ -18,5 +18,5 @@ Project is divided into three parts:
 3.Prediction  
 Run code one after another
    
-   In Creation of dataset: Create two folder for train and test  
+   In Creation of dataset: Create two folder for train and test dataset.
 
